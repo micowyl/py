@@ -2,7 +2,7 @@
 # -*-coding:utf-8-*-
 
 """
-STool串口工具v1.2
+STool串口工具v1.2 （2018-03-12）
 
 各线程机制：
     1、threadRefreshHis，threadRefreshArm线程
